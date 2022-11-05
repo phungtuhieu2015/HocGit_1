@@ -16,14 +16,13 @@ public class Hello_1 {
     void taoMoi(){
         System.out.println("xin chào mọi người ");
     }
-<<<<<<< HEAD
-<<<<<<< HEAD
+
     
     //sua tai - 1
-=======
+
     //Đông Anti Hieulor
->>>>>>> a60a71b3d3bdc62a1448d5ecd8538ee1231ee4e9
-=======
+    //Đông Anti Hieulor
+
     // Sua Hieu - 1
->>>>>>> 14bcf4d9f44cc19e2e82c168efe740b5ad83bd5b
+
 }
