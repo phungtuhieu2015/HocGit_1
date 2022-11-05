@@ -16,4 +16,6 @@ public class Hello_1 {
     void taoMoi(){
         System.out.println("xin chào mọi người ");
     }
+    
+    //sua tai - 1
 }
