@@ -2,18 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+package nhanh1;
 
 /**
  *
- * @author phung
+ * @author MSI PC
  */
-public class Hello_1 {
+public class hello_2 {
     public static void main(String[] args) {
-        System.out.println("Git 1");
-        System.out.println("sua tai 1");
-        // da gop nhnah
-    }
-    void taoMoi(){
-        System.out.println("xin chào mọi người ");
+        System.out.println("nhanh1.hello_2.main");
     }
 }
